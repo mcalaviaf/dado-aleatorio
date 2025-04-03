@@ -1,0 +1,37 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_button_event" id="jUdAr:m[lgD)X6gg[AT{" x="0" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="controls_if" id="_?{#N7_e7!4[w2Pl*4{#"><mutation elseif="4" else="1"></mutation><value name="IF0"><shadow type="logic_boolean" id="PX2!aHp+sHGeF$lvPJhF"><field name="BOOL">FALSE</field></shadow><block type="logic_random" id="=h*a:b%u^|]Ho`tM?rhR"></block></value><statement name="DO0"><block type="device_show_leds" id="at5OQ:#{VOI$qUp%.K;m"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        . . . . .
+        `</field></block></statement><value name="IF1"><shadow type="logic_boolean" id="d#g(Vxsm,F)isddBc@_#"><field name="BOOL">FALSE</field></shadow><block type="logic_random" id="K4p-ZC`i2Baj|n+K,4#P"></block></value><statement name="DO1"><block type="device_show_leds" id="YIk=rQE@G~50|GL](wzC"><field name="LEDS">`
+        # . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . #
+        `</field></block></statement><value name="IF2"><shadow type="logic_boolean" id=";^tEDH4,Iiy%BMkRcJdv"><field name="BOOL">FALSE</field></shadow><block type="logic_random" id="KxJHj3.7G7s$7GfXWRdA"></block></value><statement name="DO2"><block type="device_show_leds" id="hf2GL@EaRHamU5swQ=M$"><field name="LEDS">`
+        . . . . # 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        # . . . .
+        `</field></block></statement><value name="IF3"><shadow type="logic_boolean" id="CPbG3SMB.};KKoz^A}Z9"><field name="BOOL">FALSE</field></shadow><block type="logic_random" id="QkT!4k}mrv$VzqAHAC1Z"></block></value><statement name="DO3"><block type="device_show_leds" id="RIFzTj_|R5VQd,_UfYZq"><field name="LEDS">`
+        # . . . # 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        # . . . #
+        `</field></block></statement><value name="IF4"><shadow type="logic_boolean" id="S*#3*{zK3Uu=fkGrD2kI"><field name="BOOL">FALSE</field></shadow><block type="logic_random" id="?tk*2Cbv*r:JRk*@i~kJ"></block></value><statement name="DO4"><block type="device_show_leds" id="d_M=,/PLYu(W,aWdd?^."><field name="LEDS">`
+        # . . . # 
+        . . . . . 
+        . . # . . 
+        . . . . . 
+        # . . . #
+        `</field></block></statement><statement name="ELSE"><block type="device_show_leds" id="VZFYR:)v.|lgV-#[Y+ZH"><field name="LEDS">`
+        # . . . # 
+        . . . . . 
+        # . . . # 
+        . . . . . 
+        # . . . #
+        `</field></block></statement></block></statement></block></xml>
